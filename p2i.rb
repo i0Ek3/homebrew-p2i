@@ -1,4 +1,4 @@
-class P2I < Formula
+class P2i < Formula
   desc "A Bash/Shell script to convert your PNG images into Mac OS specific type ICNS (iconset) !"
   homepage "https://github.com/i0Ek3/p2i"
   license "MIT"
